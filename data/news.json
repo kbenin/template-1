@@ -1,0 +1,30 @@
+[
+	{
+		"image": "../assets/images/news-item-1.png",
+		"url": "#",
+		"alt": "Couple sitting on a bench",
+		"title": "Lorem ipsum dolor sit amet consectetur. Sed vulputate eget",
+		"excerpt": "Lorem ipsum dolor sit amet consectetur. Consequat sollicitudin in euismod dolor. Nec sodales viverra turpis molestie."
+	},
+	{
+		"image": "../assets/images/news-item-2.png",
+		"url": "#",
+		"alt": "Dreamcatcher",
+		"title": "Lorem ipsum dolor sit amet consectetur. Sed vulputate eget",
+		"excerpt": "Lorem ipsum dolor sit amet consectetur. Consequat sollicitudin in euismod dolor. Nec sodales viverra turpis molestie."
+	},
+	{
+		"image": "../assets/images/news-item-3.png",
+		"url": "#",
+		"alt": "Smiling professional man in suit",
+		"title": "Lorem ipsum dolor sit amet consectetur. Sed vulputate eget",
+		"excerpt": "Lorem ipsum dolor sit amet consectetur. Consequat sollicitudin in euismod dolor. Nec sodales viverra turpis molestie."
+	},
+	{
+		"image": "../assets/images/placeholder.png",
+		"url": "#",
+		"alt": "Placeholder image",
+		"title": "Lorem ipsum dolor sit amet consectetur. Sed vulputate eget",
+		"excerpt": "Lorem ipsum dolor sit amet consectetur. Consequat sollicitudin in euismod dolor. Nec sodales viverra turpis molestie."
+	}
+]
