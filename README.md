@@ -7,6 +7,8 @@
   php -v
   ```
 
+## If PHP is already installed, follow these steps:
+
 1. Download the zip from this repository = https://prnt.sc/Wlm_BZzk9h8v
 2. Once downloaded the "template-1-main" make sure to extract it = https://prnt.sc/1HPbOos803VN
 3. Go inside the folder template-main-1/, right click and "Open Terminal" = https://prnt.sc/95mMikf3dq-j
